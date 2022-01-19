@@ -1,0 +1,55 @@
+/* Example styling of a h1 element */
+h1 {
+  color: #edeef5;
+  font-family: "Lobster", cursive;
+}
+
+h2 {
+  color: #edeef5;
+  font-family: Arial, Helvetica, sans-serif;
+
+  padding-right: 40px;
+  font-size: 10px;
+}
+/* Style of the main text */
+p {
+  color: #edeef5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #fff9ec;
+}
+
+/* The square that holds the text*/
+#square {
+  background-color: rgb(70, 161, 157);
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 20px;
+}
+
+.img-cookie {
+  max-width: 30%;
+}
+
+/* links */
+a {
+  color: #edeef5;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+#content {
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
